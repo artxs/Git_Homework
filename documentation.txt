@@ -1,0 +1,1 @@
+Ðî ir vienkârða konsoles programma C++ valodâ, kas saskaita divus skaitïus.
