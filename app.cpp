@@ -14,7 +14,13 @@ cin>>y;
 
 z = x * y;
 
-cout<<"\n Multiplication of x and y : "<<z;
+cout<<"\n Multiplication of x and y : "<<z<<"\n";
+
+for(int i=0; i<z;i++)
+{
+	cout<<"*";
+	
+	}
 
 	
 system("pause>>nul");
