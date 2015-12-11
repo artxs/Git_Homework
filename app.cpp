@@ -13,7 +13,7 @@ cout<<"\n y value : ";
 cin>>y;
 
 w = x + y;
-cout<<"\n Sum of x and y : "<<w;
+cout<<"\n x un y summa ir : "<<w;
 	
 system("pause>>nul");
 return 0;
